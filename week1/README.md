@@ -6,6 +6,8 @@ This week begins with the basics of Python and its libraries:
 
 2. Matplotlib
 
+3. Pandas
+
 ## **Resources**
 
 ## Python Basics
