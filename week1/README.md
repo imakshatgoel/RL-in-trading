@@ -9,8 +9,7 @@ This week begins with the basics of Python and its libraries:
 3. Pandas
 
 We have added a lot of resources and tutorials and you may go through any of them and finally be able to do the assignments we have listed.
-Don't get overwhelmed by the amount of resources. They are not compulsory, I have just added whatever came into my notice :)
-Numpy_assignment.py is the first assignment you should be focusing on and after that try doing Pandas_and_Matplotlib.py
+Don't get overwhelmed by the amount of resources. They are not compulsory, I have just added whatever came into my notice :). Numpy_assignment.ipynb is the first assignment you should be focusing on and after that try doing Pandas_and_Matplotlib.ipynb
 ## **Resources**
 
 ## Python Basics
@@ -58,4 +57,4 @@ These are useful tools that will stay along with us throughout the project and u
 
 ## IMPORTANT NOTE
 All of this is not at all compulsory and even doable, it is just added in case you need resources. 
-The path you need to follow is first learn python using W3schools or the video whatever suits you then try some practice on python and once go to the file python-tutorial.ipynb then go through one of the numpy tutorials and try its assignment.Finally go through matplotlib tutorial and pandas tutorial and try Pandas_and_Matplotlib.ipynb. You don't need to read complete documentations and go through complete playlists. Also, you can use AI tools for searching through syntax but make sure that you don't completely rely on them.
+The path you need to follow is first learn python using W3schools or the video whatever suits you then try some practice on python and once go to the file python-tutorial.ipynb then go through one of the numpy tutorials and try its assignment. Finally go through Matplotlib tutorial and Pandas tutorial and try Pandas_and_Matplotlib.ipynb. You don't need to read complete documentations and go through complete playlists. Also, you can use AI tools for searching through syntax but make sure that you don't completely rely on them.
