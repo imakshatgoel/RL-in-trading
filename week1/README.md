@@ -8,6 +8,8 @@ This week begins with the basics of Python and its libraries:
 
 3. Pandas
 
+We have added a lot of resources and tutorials and you may go through any of them and finally be able to do the assignments we have listed.
+Don't get overwhelmed by the amount of resources. They are not compulsory, I have just added whatever came into my notice :)
 ## **Resources**
 
 ## Python Basics
