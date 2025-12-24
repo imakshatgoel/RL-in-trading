@@ -9,3 +9,9 @@ Refer to Grokking textbook provided with this week and complete the assignment i
 
 Apart from that we would also learn how to extract financial data from yahoo finance and interpret it to make meaningful observations
 finance.ipynb is the file for that, I am not giving any task on that right now I just want you to go through it once and understnad what all these represent
+
+You can google or chatgpt terms like rolling mean, close price, adjusted close, dividends and all to know about these. I find this better than going through any text :)
+
+I think this week is quite heavy so better keep constantly trying, ask us if you are stuck with anything
+
+# All The Best!!
